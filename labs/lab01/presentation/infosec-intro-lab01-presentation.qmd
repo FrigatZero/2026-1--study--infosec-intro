@@ -90,6 +90,8 @@ slide_level: 2
 aspectratio: 169
 section-titles: true
 theme: metropolis
+
+pdf
 ```
 
 ## Формат `html`
