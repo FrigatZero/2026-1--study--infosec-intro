@@ -12,8 +12,8 @@ author:
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
 ## Title
-title: Лабораторная работа №6
-subtitle: Мандатное разграничение прав в Linux
+title: Лабораторная работа №7
+subtitle: Элементы криптографии. Однократное гаммирование
 license: CC BY
 date: today
 date-format: "YYYY-MM-DD" # Example: 2025-09-06
